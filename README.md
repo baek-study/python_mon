@@ -19,7 +19,8 @@
 
 <br>
 
-## [2주차 실습&nbsp;-&nbsp;기본 구조](https://github.com/baek-study/python/blob/main/source/week2_answer.ipynb) 
+## [2주차 실습&nbsp;-&nbsp;기본 구조](https://github.com/baek-study/python/blob/main/source/week2_answer.ipynb) <br>
+[2주차 실습&nbsp;-&nbsp;프레임](https://github.com/baek-study/python/blob/main/source/week2.ipynb) 
 <ul>
   <li>파이썬 문장 구조 </li>
     &nbsp;- &nbsp; 주석: 한줄(#), 여러줄(''', """) <br>
