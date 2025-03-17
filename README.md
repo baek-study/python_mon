@@ -4,43 +4,10 @@
 
 <hr size = "10px", width ="500px">
 
-## [14주차 실습&nbsp;-&nbsp;파일2&클래스와객체](https://github.com/baek-study/python/blob/main/source/week14.ipynb)  
-<ul>
-<li>  파일2 <br>
-  - 파일 읽기: 파일 객체(변수) 이용 <br>
-  &ensp;for line in infile:<br>
-  &ensp;&emsp; print(line.strip())<br>
-  - with 명령문: 파일 안전하게 처리 <br>
-  &ensp;with open('a.txt', 'r') as file:
-</li>
-<br>
-<li> 클래스와 객체 <br>
-  - 클래스: 설계도, 데이터+메소드 <br>
-  - 객체 : 클래스에서 생성된 실체<br>
-</li>
-<br>
-<li>클래스 정의 - 메소드 정의  <br>
-  - <b>class</b> Counter : # class 이름: <br> 
-  &emsp; def func1(<b>self</b>, ... ) : <br> 
-  &emsp;&emsp; <b>self.</b>b>count = 1, ...  <br> 
-</li>
-<br>
-<li>객체 생성 & 객체 접근  <br>
-  - 객체생성 : 객체 = 클래스 이름()  <br> 
-  &ensp; a = Counter() <br> 
-  - 객체 접근 : . 연산자 이용 <br> 
-  &ensp; a.func1()  # 메소드 접근<br> 
-  &ensp; print(a.count) # 데이터 접근
-</li>
-<br>
-</ul>
-
-<hr size = "10px", width ="500px">
-
 <br>
 
 ## 1주차
-파이썬 소개 - 대화형, 객체지향 언어
+파이썬 소개 - 인터프리터(Interpreter) 언어, 객체지향 언어
 
 <br>
 
