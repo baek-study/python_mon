@@ -34,11 +34,11 @@
   <li>자료형 print()<br>
     &nbsp;- &nbsp; 정수형 : print(123); print(123_456); <br>
     &nbsp;- &nbsp; 실수형 : print(3.14);print(3.14e12); <br>
-    &nbsp; - &nbsp; 문자열형: print("hello")<br>
-    &nbsp;  &nbsp;&nbsp; 문자열+문자열=병합 print("100"+"200")<br>
+    &nbsp;- &nbsp; 문자열형: print("hello")<br>
+    &nbsp; &nbsp;&nbsp; 문자열+문자열=병합 print("100"+"200")<br>
     &nbsp; - &nbsp; 논리형: print(True); print(False);<br>
-    &nbsp; - &nbsp; 자료형 확인 함수 : type(1234); type("abc");
-    &nbsp; - &nbsp; 자료형 변환 함수 : int("100"); 
+    &nbsp; - &nbsp; 자료형 확인 : type(1234); type("abc");<br>
+    &nbsp; - &nbsp; 자료형 변환 : int("100"); 
   </li>
 </ul>
 <br>
