@@ -13,8 +13,10 @@
 
 ## [2주차 실습&nbsp;-&nbsp;기본 구조](https://github.com/baek-study/python/blob/main/source/week2_answer.ipynb) 
 <ul>
-  <li>주석: 한줄(#), 여러줄(''', """) </li>
-  <li>문장: 처리를 수행하는 명령어 <br>
+  <li>파이썬 문장 구조 </li>
+    &nbsp;- &nbsp; 주석: 한줄(#), 여러줄(''', """) <br>
+    &nbsp;- &nbsp; 문장: 처리를 수행하는 명령어 
+</li>
   <li>표준출력함수 print()<br>
     &nbsp;- &nbsp; 문자열 : print('hello') <br>
     &nbsp;- &nbsp; 다양한자료형 : print(1004);print(3.14); <br>
