@@ -133,7 +133,7 @@
   </li>
   </ul>
 
-### [중첩 if 문]()  
+### [중첩 if 문 - if 안에 if]()  
 <ul>
   <li><b>if</b> score >= 80<b>:</b>&ensp;  <br>
     &ensp;&ensp;&nbsp;<b>if</b> score >= 90<b>:</b>&ensp; <br>
@@ -143,4 +143,27 @@
     <b>else :</b>&ensp; <br>
     &ensp;&ensp;&nbsp;print('C') <br>
   </li>
+</ul>
+
+## [6주차 실습&nbsp;-&nbsp;문자열]()
+
+### [문자열 생성 및 조작]()
+<ul>
+  <li> 생성 : msg = '안녕하세요' </li>
+  <li> 인덱싱[순번] : msg[0]&ensp; #'안' </li>
+  <li> 슬라이싱[시작:끝] : msg[2:4] &ensp; #'하세' <br>
+  시작부터 (끝-1)까지 부분문자열</li>
+  <li> 연산(+,*,in) : 'hi'+'mju'*3 <br>
+    'm' in 'mju' # not in
+  </li>  
+</ul>
+
+### [서식 : f-문자열]()
+<ul>
+  <li> print(f'hi. {name}, age {25}') </li>
+  <li> 형식지정: 정수 d, 실수 f, 문자 s </li>
+  <li> 자릿수: {25:5d} &ensp; #다섯자리 확보 </li>
+  <li> 정밀도: {3.145:.2f} &ensp; #소수점 몇자리 <br>
+    &ensp;print(f'hi.{name:10s}, age {25:5d}, {PI:.2f}’)
+  </li>  
 </ul>
