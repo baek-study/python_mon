@@ -20,7 +20,7 @@
 
 <br>
 
-## [2주차 실습&nbsp;-&nbsp;기본 구조](https://github.com/baek-study/python/blob/main/source/week2_answer.ipynb) <br>
+## [2주차 실습&nbsp;-&nbsp;기본 구조](https://drive.google.com/file/d/1JO6643hqV3Ox0LYWdpl5nnoR_PEF03ky/view?usp=sharing) <br>
 
 ### [파이썬 문장 구조]()
 <ul>
