@@ -175,13 +175,13 @@
 
 ### [while 문]()
 <ul>
-  <li>범위 반복 : 초기, 반복조건(끝), 증감
+  <li>범위 반복 : 초기, 반복조건(끝), 증감<br>
   count = 0 # 초기값<br>
   <b>while</b> count < 5 <b>:</b> # 반복조건(끝) <br>
   &ensp;&ensp;print(f'{count}회') <br> 
   &ensp;&ensp;count += 1 # 즘감 <br> 
   </li>
-  <li>조건 반복 : 조건이 만족되는 동안
+  <li>조건 반복 : 조건이 만족되는 동안<br>
   pwd = ' ' # 초기화<br>
   <b>while</b> pwd != 'mju' <b>:</b> # 조건 만족하는지? <br>
   &ensp;&ensp;pwd=input() <br> 
@@ -193,7 +193,7 @@
 <ul>
   <li> <b>while True :</b> #  무한 루프<br>
   &nbsp; &nbsp; 문장들<br>
-  &nbsp; &nbsp; if pwd == 'mju':
+  &nbsp; &nbsp; if pwd == 'mju':<br>
    &nbsp; &nbsp;&nbsp; &nbsp; break # 무한 루프 탈출 
 </li>
 <br>
