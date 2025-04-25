@@ -1,5 +1,6 @@
 # python 프로그래밍 입문
 파이썬 프로그래밍 입문 수강자가 핵심 내용을 쉽게 알고, 실행 시켜 보는 페이지 입니다. <br> <br>
+명지대/백혜정 교수<br>
 
 <hr size = "10px", width ="500px">
 
@@ -179,7 +180,7 @@
   count = 0 # 초기값<br>
   <b>while</b> count < 5 <b>:</b> # 반복조건(끝) <br>
   &ensp;&ensp;print(f'{count}회') <br> 
-  &ensp;&ensp;count += 1 # 즘감 <br> 
+  &ensp;&ensp;count += 1 # 증감 <br> 
   </li>
   <li>조건 반복 : 조건이 만족되는 동안<br>
   pwd = ' ' # 초기화<br>
