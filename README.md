@@ -100,21 +100,13 @@
 
 ### [단순 if문 - 선택 명령 1개]()
 <ul>    
-  <li>if</b> score >= 60<b>:</b>&ensp;<br>
-    &ensp;&nbsp;  print('pass') <br>
-  </li>
   <li><b>if</b> score >= 60<b>:</b>&ensp;<br>
     &ensp;&nbsp;  print('pass') <br>
-    <b>else:</b>&ensp; <br>
-    &ensp;&nbsp;  print('fail')
   </li>
 </ul>
 
 ### [if~else 문- 선택 명령 2개]()
 <ul>    
-  <li>if</b> score >= 60<b>:</b>&ensp;<br>
-    &ensp;&nbsp;  print('pass') <br>
-  </li>
   <li><b>if</b> score >= 60<b>:</b>&ensp;<br>
     &ensp;&nbsp;  print('pass') <br>
     <b>else:</b>&ensp; <br>
@@ -158,12 +150,49 @@
   </li>  
 </ul>
 
+### [문자열 함수/메소드]()
+<ul>
+  <li> len(msg) : 문자열 길이 함수 </li>  
+  <li> msg.split('/') : 문자열 분리 메소드 </li>  
+  <li> msg.count('안') : 문자열 발견 횟수</li>  
+  <li> msg.find('안') : 문자열 발견 위치 </li>  
+</ul>
+
+## [7주차 실습&nbsp;-&nbsp;반복문]()
+
 ### [서식 : f-문자열]()
 <ul>
-  <li> print(f'hi. {name}, age {25}') </li>
+  <li> f'..{표현식}..' # 중괄호 사용  <br>
+    ex) print(f'hi. {name}, age {25}') </li>
   <li> 형식지정: 정수 d, 실수 f, 문자 s </li>
   <li> 자릿수: {25:5d} &ensp; #다섯자리 확보 </li>
   <li> 정밀도: {3.145:.2f} &ensp; #소수점 몇자리 <br>
-    &ensp;print(f'hi.{name:10s}, age {25:5d}, {PI:.2f}’)
+    ex) print(f'hi.{name:10s}, age {25:5d}, {PI:.2f}’)
   </li>  
 </ul>
+
+### [while 문]()
+<ul>
+  <li>범위 반복 : 초기, 반복조건(끝), 증감
+  count = 0 # 초기값<br>
+  <b>while</b> count < 5 <b>:</b> # 반복조건(끝) <br>
+  &ensp;&ensp;print(f'{count}회') <br> 
+  &ensp;&ensp;count += 1 # 즘감 <br> 
+  </li>
+  <li>조건 반복 : 조건이 만족되는 동안
+  pwd = ' ' # 초기화<br>
+  <b>while</b> pwd != 'mju' <b>:</b> # 조건 만족하는지? <br>
+  &ensp;&ensp;pwd=input() <br> 
+  </li>
+</li>
+</ul>
+
+### [무한 루프]()
+<ul>
+  <li> <b>while True :</b> #  무한 루프<br>
+  &nbsp; &nbsp; 문장들<br>
+  &nbsp; &nbsp; if pwd == 'mju':
+   &nbsp; &nbsp;&nbsp; &nbsp; break # 무한 루프 탈출 
+</li>
+
+  
