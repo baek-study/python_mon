@@ -136,6 +136,7 @@
     &ensp;&ensp;&nbsp;print('C') <br>
   </li>
 </ul>
+<br>
 
 ## [6주차 실습&nbsp;-&nbsp;문자열]()
 
@@ -157,6 +158,7 @@
   <li> msg.count('안') : 문자열 발견 횟수</li>  
   <li> msg.find('안') : 문자열 발견 위치 </li>  
 </ul>
+<br>
 
 ## [7주차 실습&nbsp;-&nbsp;반복문]()
 
@@ -194,5 +196,5 @@
   &nbsp; &nbsp; if pwd == 'mju':
    &nbsp; &nbsp;&nbsp; &nbsp; break # 무한 루프 탈출 
 </li>
-
+<br>
   
