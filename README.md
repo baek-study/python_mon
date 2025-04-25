@@ -37,16 +37,14 @@
   </li>
 </ul>
 
-### [자료형(Data Type]()
+### [자료형(Data Type)]()
 <ul>
-  <li> 정수-int : print(123); print(123_456);</li>
-  <li>  실수-float : print(3.14);print(3.14e12); </li>
-  <li>  문자열-str: print("hello");print('hello');</li>
-  <li>  문자열+문자열=병합 print("100"+"200")</li>
-  <li>  논리-bool: print(True); print(False);</li>
-  <li>  자료형 확인 : type(1234); type("abc");</li>
-  <li>  자료형 변환 : int("100"); </li>
-  
+  <li> 정수/int : print(123); print(123_456);</li>
+  <li>  실수/float : print(3.14);print(3.14e12); </li>
+  <li>  문자열/str: print("hello");print('100'+'200');</li>
+  <li>  논리/bool: print(True); print(False);</li>
+  <li>  type() : type(1234) # 자료형 확인</li>
+  <li>  int() : int("100") #  정수로 변환 </li>
 </ul>
 <br>
 
