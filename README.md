@@ -98,7 +98,7 @@
 
 ## [5주차 실습&nbsp;-&nbsp;조건문]()
 
-### [단순 if/if~else 문]()
+### [단순 if문 - 선택 명령 1개]()
 <ul>    
   <li>if</b> score >= 60<b>:</b>&ensp;<br>
     &ensp;&nbsp;  print('pass') <br>
@@ -110,7 +110,19 @@
   </li>
 </ul>
 
-### [연속 if 문]()
+### [if~else 문- 선택 명령 2개]()
+<ul>    
+  <li>if</b> score >= 60<b>:</b>&ensp;<br>
+    &ensp;&nbsp;  print('pass') <br>
+  </li>
+  <li><b>if</b> score >= 60<b>:</b>&ensp;<br>
+    &ensp;&nbsp;  print('pass') <br>
+    <b>else:</b>&ensp; <br>
+    &ensp;&nbsp;  print('fail')
+  </li>
+</ul>
+
+### [연속 if 문 - 선택 명령 3개 이상]()
   <ul>
   <li><b>if</b> score >= 90<b>:</b>&ensp;  <br>
     &ensp;&nbsp;print('A') <br>
