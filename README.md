@@ -191,13 +191,13 @@
 
 ### [무한 루프](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
 <ul>
-<ul>
   <li> <b>while True :</b> #  무한 루프<br>
   &nbsp; &nbsp; 문장들<br>
   &nbsp; &nbsp; if pwd == 'mju':<br>
    &nbsp; &nbsp;&nbsp; &nbsp; break # 무한 루프 탈출 
 </li>
 </ul>
-####[7주차 퀴즈 풀이](https://github.com/baek-study/python_mon/blob/main/source/week7_py_quiz_mon.ipynb)
+  
+#### [7주차 퀴즈 풀이](https://github.com/baek-study/python_mon/blob/main/source/week7_py_quiz_mon.ipynb)
 <br>
   
