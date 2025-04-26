@@ -20,15 +20,15 @@
 
 <br>
 
-## [2주차 실습&nbsp;-&nbsp;기본 구조](https://drive.google.com/file/d/1JO6643hqV3Ox0LYWdpl5nnoR_PEF03ky/view?usp=sharing) <br>
+## [2주차 실습&nbsp;-&nbsp;기본 구조](https://github.com/baek-study/python_mon/blob/main/source/week2_mju_mon.ipynb) <br>
 
-### [파이썬 문장 구조]()
+### [파이썬 문장 구조](https://github.com/baek-study/python_mon/blob/main/source/week2_mju_mon.ipynb)
 <ul>
   <li>주석: 한줄(#), 여러줄(''', """)  </li>
   <li> 문장: 처리를 수행하는 명령어 </li>
 </ul>
 
-### [표준출력함수 print()]()
+### [표준출력함수 print()](https://github.com/baek-study/python_mon/blob/main/source/week2_mju_mon.ipynb)
 <ul>
     <li> 문자열 : print('hello') </li>
     <li> 다양한자료형 : print(1004);print(3.14);</li>
@@ -37,7 +37,7 @@
   </li>
 </ul>
 
-### [자료형(Data Type)]()
+### [자료형(Data Type)](https://github.com/baek-study/python_mon/blob/main/source/week2_mju_mon.ipynb)
 <ul>
   <li> 정수/int : print(123); print(123_456);</li>
   <li>  실수/float : print(3.14);print(3.14e12); </li>
@@ -48,16 +48,16 @@
 </ul>
 <br>
 
-## [3주차 실습&nbsp;-&nbsp;변수와 표준입력함수]()
+## [3주차 실습&nbsp;-&nbsp;변수와 표준입력함수](https://github.com/baek-study/python_mon/blob/main/source/week3_mju_mon.ipynb)
 
-### [변수 개념]()
+### [변수 개념](https://github.com/baek-study/python_mon/blob/main/source/week3_mju_mon.ipynb)
 <ul>
   <li>변수 : 데이터를 저장하는 공간 </li>
   <li>이름 규칙 : 알파벳(a~z, A~Z), 숫자(0~9), 밑줄(_)로 구성 </li>
   <li> 시작시 숫자 안됨, 이름내 공백 안됨, 예약어 안됨 </li>
 </ul>
 
-### [파이썬에서 변수]()
+### [파이썬에서 변수](https://github.com/baek-study/python_mon/blob/main/source/week3_mju_mon.ipynb)
 <ul>
   <li>변수이름 = 값 &ensp; </li>
   <li> 왼쪽은 항상 변수이름 </li>
@@ -65,7 +65,7 @@
   <li> x=1; y=3.14; z='hi'; b=True; </li>
 </ul>
 
-### [표준 입력함수 input()]()
+### [표준 입력함수 input()](https://github.com/baek-study/python_mon/blob/main/source/week3_mju_mon.ipynb)
 <ul>
    <li>키보드를 통해 입력한 값을 하나의 '문자열' 형태로 반환</li>
     <li> msg = input('[안내메시지] 나이는?')&ensp;#문자열로 반환</li>
@@ -75,9 +75,9 @@
 
 <br>
 
-## [4주차 실습&nbsp;-&nbsp;연산자]()
+## [4주차 실습&nbsp;-&nbsp;연산자](https://github.com/baek-study/python_mon/blob/main/source/week4_mju_mon.ipynb)
 
-### [산술/대입/복합 연산자]()
+### [산술/대입/복합 연산자](https://github.com/baek-study/python_mon/blob/main/source/week4_mju_mon.ipynb)
 <ul>
   <li>산술: + - * / %(나머지) //(몫) **(제곱)</li>
   <li>대입: x=3; x=x+1; x=y=z=1;<br>
@@ -86,7 +86,7 @@
   &ensp;- 대입과 산술/기타 연산자 결합 </li>
 </ul>
 
-### [비교/논리 연산자]()
+### [비교/논리 연산자](https://github.com/baek-study/python_mon/blob/main/source/week4_mju_mon.ipynb)
 <ul>
   <li>비교 : == != > < >= <= <br>
   &ensp;- ==(같다), !=(같지않다)<br>
@@ -96,16 +96,16 @@
 
 <br>
 
-## [5주차 실습&nbsp;-&nbsp;조건문]()
+## [5주차 실습&nbsp;-&nbsp;조건문](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
 
-### [단순 if문 - 선택 명령 1개]()
+### [단순 if문 - 선택 명령 1개](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
 <ul>    
   <li><b>if</b> score >= 60<b>:</b>&ensp;<br>
     &ensp;&nbsp;  print('pass') <br>
   </li>
 </ul>
 
-### [if~else 문- 선택 명령 2개]()
+### [if~else 문- 선택 명령 2개](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
 <ul>    
   <li><b>if</b> score >= 60<b>:</b>&ensp;<br>
     &ensp;&nbsp;  print('pass') <br>
@@ -114,7 +114,7 @@
   </li>
 </ul>
 
-### [연속 if 문 - 선택 명령 3개 이상]()
+### [연속 if 문 - 선택 명령 3개 이상](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
   <ul>
   <li><b>if</b> score >= 90<b>:</b>&ensp;  <br>
     &ensp;&nbsp;print('A') <br>
@@ -125,7 +125,7 @@
   </li>
   </ul>
 
-### [중첩 if 문 - if 안에 if]()  
+### [중첩 if 문 - if 안에 if](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)  
 <ul>
   <li><b>if</b> score >= 80<b>:</b>&ensp;  <br>
     &ensp;&ensp;&nbsp;<b>if</b> score >= 90<b>:</b>&ensp; <br>
@@ -138,9 +138,9 @@
 </ul>
 <br>
 
-## [6주차 실습&nbsp;-&nbsp;문자열]()
+## [6주차 실습&nbsp;-&nbsp;문자열](https://github.com/baek-study/python_mon/blob/main/source/week6_mju_mon.ipynb)
 
-### [문자열 생성 및 조작]()
+### [문자열 생성 및 조작](https://github.com/baek-study/python_mon/blob/main/source/week6_mju_mon.ipynb)
 <ul>
   <li> 생성 : msg = '안녕하세요' </li>
   <li> 인덱싱[순번] : msg[0]&ensp; #'안' </li>
@@ -151,7 +151,7 @@
   </li>  
 </ul>
 
-### [문자열 함수/메소드]()
+### [문자열 함수/메소드](https://github.com/baek-study/python_mon/blob/main/source/week6_mju_mon.ipynb)
 <ul>
   <li> len(msg) : 문자열 길이 함수 </li>  
   <li> msg.split('/') : 문자열 분리 메소드 </li>  
@@ -160,9 +160,9 @@
 </ul>
 <br>
 
-## [7주차 실습&nbsp;-&nbsp;반복문]()
+## [7주차 실습&nbsp;-&nbsp;반복문](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
 
-### [서식 : f-문자열]()
+### [서식 : f-문자열](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
 <ul>
   <li> f'..{표현식}..' # 중괄호 사용  <br>
     ex) print(f'hi. {name}, age {25}') </li>
@@ -173,7 +173,7 @@
   </li>  
 </ul>
 
-### [while 문]()
+### [while 문](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
 <ul>
   <li>범위 반복 : 초기, 반복조건(끝), 증감<br>
   count = 0 # 초기값<br>
@@ -189,7 +189,7 @@
 </li>
 </ul>
 
-### [무한 루프]()
+### [무한 루프](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
 <ul>
   <li> <b>while True :</b> #  무한 루프<br>
   &nbsp; &nbsp; 문장들<br>
