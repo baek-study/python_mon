@@ -254,6 +254,11 @@
   <b>결과변수:</b> 함수호출 후 결과대입   </li>
 </ul>
 
+<br>
+
+
+## [11주차 강의&nbsp;-&nbsp;함수와 모듈](https://github.com/baek-study/python_mon/blob/main/source/week11_mju_mon.ipynb)
+
 ### [키워드 인수&디폴트 인수&가변 인수 ](https://github.com/baek-study/python_mon/blob/main/source/week10_mju_mon.ipynb)
 <ul>
 <li> 기본값 인수 : 함수 정의시 기본값(디폴트값)이 설정됨</li>
@@ -262,10 +267,6 @@
 </li>
 </ul>
 
-<br>
-
-
-## [11주차 강의&nbsp;-&nbsp;함수와 모듈](https://github.com/baek-study/python_mon/blob/main/source/week11_mju_mon.ipynb)
 ### [지역변수vs전역변수](https://github.com/baek-study/python_mon/blob/main/source/week11_mju_mon.ipynb)
 <ul>
 <li>  <b>지역변수</b> - 함수<b>내</b>에서 생성된 변수 <br>
