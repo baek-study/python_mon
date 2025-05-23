@@ -160,7 +160,7 @@
 </ul>
 <br>
 
-## [7주차 실습&nbsp;-&nbsp;반복문](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
+## [7주차 실습&nbsp;-&nbsp;반복문(while)](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
 
 ### [서식 : f-문자열](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
 <ul>
@@ -201,7 +201,7 @@
 #### [7주차 퀴즈 풀이](https://github.com/baek-study/python_mon/blob/main/source/week7_py_quiz_mon.ipynb)
 <br>
 
-## [9주차 실습&nbsp;-&nbsp;반복문](https://github.com/baek-study/python_mon/blob/main/source/week9_mju_mon.ipynb)
+## [9주차 실습&nbsp;-&nbsp;반복문(for)](https://github.com/baek-study/python_mon/blob/main/source/week9_mju_mon.ipynb)
 
 ### [반복문:for](https://github.com/baek-study/python_mon/blob/main/source/week9_mju_mon.ipynb)
 <ul>
