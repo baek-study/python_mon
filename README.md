@@ -94,7 +94,7 @@
   <li>논리 : and or not</li>
 </ul>
 
-### [단순 if문 - 선택 명령 1개](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
+### [단순 if문 - 선택 명령 1개](https://github.com/baek-study/python_mon/blob/main/source/week4_mju_mon.ipynb)
 <ul>    
   <li><b>if</b> score >= 60<b>:</b>&ensp;<br>
     &ensp;&nbsp;  print('pass') <br>
@@ -213,7 +213,7 @@
 </li>
 </ul>
 
-### [무한 루프](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
+### [무한 루프](https://github.com/baek-study/python_mon/blob/main/source/week9_mju_mon.ipynb)
 <ul>
   <li> <b>while True :</b> #  무한 루프<br>
   &nbsp; &nbsp; 문장들<br>
@@ -259,7 +259,7 @@
 
 ## [11주차 강의&nbsp;-&nbsp;함수와 모듈](https://github.com/baek-study/python_mon/blob/main/source/week11_mju_mon.ipynb)
 
-### [키워드 인수&디폴트 인수&가변 인수 ](https://github.com/baek-study/python_mon/blob/main/source/week10_mju_mon.ipynb)
+### [키워드 인수&디폴트 인수&가변 인수 ](https://github.com/baek-study/python_mon/blob/main/source/week11_mju_mon.ipynb)
 <ul>
 <li> 기본값 인수 : 함수 정의시 기본값(디폴트값)이 설정됨</li>
 <li> 키워드 인수 : 함수 호출시 '키워드 = 값'로 호출 </li>
