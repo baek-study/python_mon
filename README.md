@@ -6,7 +6,7 @@
 
 <br>
 
-## 1주차
+## [1주차]()
 <ul>
   <li>
     파이썬 소개 - 인터프리터(Interpreter) 언어, 객체지향 언어     
@@ -20,7 +20,7 @@
 
 <br>
 
-## [2주차 실습&nbsp;-&nbsp;기본 구조](https://github.com/baek-study/python_mon/blob/main/source/week2_mju_mon.ipynb) <br>
+## [2주차 강의&nbsp;-&nbsp;기본 구조](https://github.com/baek-study/python_mon/blob/main/source/week2_mju_mon.ipynb) <br>
 
 ### [파이썬 문장 구조](https://github.com/baek-study/python_mon/blob/main/source/week2_mju_mon.ipynb)
 <ul>
@@ -48,7 +48,7 @@
 </ul>
 <br>
 
-## [3주차 실습&nbsp;-&nbsp;변수와 표준입력함수](https://github.com/baek-study/python_mon/blob/main/source/week3_mju_mon.ipynb)
+## [3주차 강의&nbsp;-&nbsp;변수와 표준입력함수](https://github.com/baek-study/python_mon/blob/main/source/week3_mju_mon.ipynb)
 
 ### [변수 개념](https://github.com/baek-study/python_mon/blob/main/source/week3_mju_mon.ipynb)
 <ul>
@@ -75,7 +75,7 @@
 
 <br>
 
-## [4주차 실습&nbsp;-&nbsp;연산자](https://github.com/baek-study/python_mon/blob/main/source/week4_mju_mon.ipynb)
+## [4주차 강의&nbsp;-&nbsp;연산자](https://github.com/baek-study/python_mon/blob/main/source/week4_mju_mon.ipynb)
 
 ### [산술/대입/복합 연산자](https://github.com/baek-study/python_mon/blob/main/source/week4_mju_mon.ipynb)
 <ul>
@@ -103,7 +103,7 @@
 
 <br>
 
-## [5주차 실습&nbsp;-&nbsp;조건문](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
+## [5주차 강의&nbsp;-&nbsp;조건문](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
 
 
 ### [if~else 문- 선택 명령 2개](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
@@ -139,7 +139,7 @@
 </ul>
 <br>
 
-## [6주차 실습&nbsp;-&nbsp;문자열](https://github.com/baek-study/python_mon/blob/main/source/week6_mju_mon.ipynb)
+## [6주차 강의&nbsp;-&nbsp;문자열](https://github.com/baek-study/python_mon/blob/main/source/week6_mju_mon.ipynb)
 
 ### [문자열 생성 및 조작](https://github.com/baek-study/python_mon/blob/main/source/week6_mju_mon.ipynb)
 <ul>
@@ -161,7 +161,7 @@
 </ul>
 <br>
 
-## [7주차 실습&nbsp;-&nbsp;반복문(while)](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
+## [7주차 강의&nbsp;-&nbsp;반복문(while)](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
 
 ### [서식 : f-문자열](https://github.com/baek-study/python_mon/blob/main/source/week7_mju_mon.ipynb)
 <ul>
@@ -202,7 +202,7 @@
 #### [7주차 퀴즈 풀이](https://github.com/baek-study/python_mon/blob/main/source/week7_py_quiz_mon.ipynb)
 <br>
 
-## [9주차 실습&nbsp;-&nbsp;반복문(for)](https://github.com/baek-study/python_mon/blob/main/source/week9_mju_mon.ipynb)
+## [9주차 강의&nbsp;-&nbsp;반복문(for)](https://github.com/baek-study/python_mon/blob/main/source/week9_mju_mon.ipynb)
 
 ### [반복문:for](https://github.com/baek-study/python_mon/blob/main/source/week9_mju_mon.ipynb)
 <ul>
@@ -230,7 +230,7 @@
 
 <br>
 
-## [10주차 실습&nbsp;-&nbsp;함수](https://github.com/baek-study/python_mon/blob/main/source/week10_mju_mon.ipynb)
+## [10주차 강의&nbsp;-&nbsp;함수](https://github.com/baek-study/python_mon/blob/main/source/week10_mju_mon.ipynb)
 
 ### [함수 정의&함수 호출](https://github.com/baek-study/python_mon/blob/main/source/week10_mju_mon.ipynb)
 <ul>
@@ -265,7 +265,7 @@
 <br>
 
 
-## [11주차 실습&nbsp;-&nbsp;함수와 모듈](https://github.com/baek-study/python_mon/blob/main/source/week11_mju_mon.ipynb)
+## [11주차 강의&nbsp;-&nbsp;함수와 모듈](https://github.com/baek-study/python_mon/blob/main/source/week11_mju_mon.ipynb)
 ### [지역변수vs전역변수](https://github.com/baek-study/python_mon/blob/main/source/week11_mju_mon.ipynb)
 <ul>
 <li>  <b>지역변수</b> - 함수<b>내</b>에서 생성된 변수 <br>
