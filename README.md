@@ -229,7 +229,7 @@
 
 <br>
 
-## [10주차 실습&nbsp;-&nbsp;반복문](https://github.com/baek-study/python_mon/blob/main/source/week10_mju_mon.ipynb)
+## [10주차 실습&nbsp;-&nbsp;함수](https://github.com/baek-study/python_mon/blob/main/source/week10_mju_mon.ipynb)
 
 ### [함수 정의&함수 호출](https://github.com/baek-study/python_mon/blob/main/source/week10_mju_mon.ipynb)
 <ul>
@@ -264,7 +264,7 @@
 <br>
 
 
-## [11주차 실습&nbsp;-&nbsp;반복문](https://github.com/baek-study/python_mon/blob/main/source/week11_mju_mon.ipynb)
+## [11주차 실습&nbsp;-&nbsp;함수와 모듈](https://github.com/baek-study/python_mon/blob/main/source/week11_mju_mon.ipynb)
 ### [지역변수vs전역변수](https://github.com/baek-study/python_mon/blob/main/source/week11_mju_mon.ipynb)
 <ul>
 <li>  <b>지역변수</b> - 함수<b>내</b>에서 생성된 변수 <br>
