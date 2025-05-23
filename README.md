@@ -94,16 +94,17 @@
   <li>논리 : and or not</li>
 </ul>
 
-<br>
-
-## [5주차 실습&nbsp;-&nbsp;조건문](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
-
 ### [단순 if문 - 선택 명령 1개](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
 <ul>    
   <li><b>if</b> score >= 60<b>:</b>&ensp;<br>
     &ensp;&nbsp;  print('pass') <br>
   </li>
 </ul>
+
+<br>
+
+## [5주차 실습&nbsp;-&nbsp;조건문](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
+
 
 ### [if~else 문- 선택 명령 2개](https://github.com/baek-study/python_mon/blob/main/source/week5_mju_mon.ipynb)
 <ul>    
