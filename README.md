@@ -324,3 +324,34 @@
   &nbsp;print(temps[i]) <br>
 </li>
 </ul>
+<br>
+
+## [13주차 강의&nbsp;-&nbsp;리스트2](https://github.com/baek-study/python_mon/blob/main/source/week13_mju_mon.ipynb)
+
+### 리스트 동작 ###
+
+### [리스트와 함수](https://github.com/baek-study/python_mon/blob/main/source/week13_mju_mon.ipynb)
+<ul>
+  <li> 매개변수로 리스트 : </li>
+  def func1(lst) <br>
+   &nbsp; print(lst)  
+  <li>리턴형으로 리스트 :</li>
+   def func2():<br>
+   &nbsp; ...
+  &nbsp; return lst   
+</ul>
+
+### [리스트 함축](https://github.com/baek-study/python_mon/blob/main/source/week13_mju_mon.ipynb)
+<ul>
+  <li> 수식 for (변수 in 리스트) if (조건) </li>
+  list1 = [ x*x for x in range(0,10)]  # 0~9까지 제곱값<br>
+  list2 = [ x*x for x in range(0,10) if x%2 ==0 ] #0~9까지 짝수의 제곱값
+</ul>
+
+<br>
+
+## [과제 풀이 참고](https://github.com/baek-study/python_mon/blob/main/source/homework.ipynb)
+<ul>
+  <li>공배수 출력 문제</li>
+  <li>팩토리얼 문제</li>
+</ul>
