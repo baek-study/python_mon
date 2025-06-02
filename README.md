@@ -355,3 +355,6 @@
   <li>공배수 출력 문제</li>
   <li>팩토리얼 문제</li>
 </ul>
+
+<br>
+## [기말키워드노트](https://github.com/baek-study/python_mon/blob/main/source/py_keyword.pdf)
